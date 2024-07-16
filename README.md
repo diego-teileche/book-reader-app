@@ -10,6 +10,8 @@ This is a Book Reader App built by `Diego Tech` by using:
 
 - Framer Motion
 - FontAwesome Icons
+- Reactjs Editor
+- Next.js Toastify
 
 ### One Message for EveryOne 🔥
 
