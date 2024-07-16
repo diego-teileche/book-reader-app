@@ -9,6 +9,7 @@ This is a Book Reader App built by `Diego Tech` by using:
 ## Libraries that I used 🚀
 
 - Framer Motion
+- FontAwesome Icons
 
 ### One Message for EveryOne 🔥
 
