@@ -75,17 +75,6 @@ const Sidebar = () => {
 	)
 }
 
-const sidebarStyle = {
-	width: "250px",
-	height: "100vh",
-	backgroundColor: "#333",
-	color: "#fff",
-	position: "fixed",
-	top: 0,
-	left: 0,
-	padding: "1rem",
-}
-
 const listStyle = {
 	listStyleType: "none",
 	padding: 0,
