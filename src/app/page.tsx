@@ -1,12 +1,11 @@
 "use client"
-
 import { motion } from "framer-motion"
 import Header from "@/components/Header"
 import Sidebar from "@/components/Sidebar"
 import { books } from "../constants/mockData"
+import BookCard from "@/components/BookCard"
 
 import styles from "./page.module.css"
-import BookCard from "@/components/BookCard"
 
 export default function Home() {
 	return (
