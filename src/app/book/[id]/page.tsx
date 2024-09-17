@@ -10,6 +10,8 @@ import { Editor, useDomValue } from "reactjs-editor"
 import { useEffect } from "react"
 import { toast, ToastContainer } from "react-toastify"
 
+export const runtime = "edge"
+
 const BookPage = () => {
 	const { id } = useParams()
 	const { dom, setDom } = useDomValue()
